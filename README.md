@@ -1,4 +1,5 @@
 # Analyst GIS
+#### Technical Skills: Python, SQL, PostGIS, ArcGIS
 
 ## Education
 Enviromental Science - Universidad de Murcia 2018-2022
